@@ -1,0 +1,63 @@
+.header {
+    text-align: center;
+    height: auto;
+}
+
+h1 {
+    margin: 0;
+    border: 3px solid lightseagreen;
+    font-size: 60px;
+    text-align: center;
+    width: auto;
+    background-image: url("https://img.freepik.com/premium-photo/blue-rustic-clear-wooden-texture-wood-timber-background-header-panorama-long-banner_100800-19879.jpg?w=826")
+}
+
+.intro {
+    text-align: center;
+    font-size: 15px;
+}
+
+table {
+    width: 100%;
+    font-size: 15px;
+    margin: 0 auto;
+    text-align: center;
+    border: 1px solid lightblue;
+}
+
+td {
+    height: 40px;
+    font-size: 15px;
+    margin: 0 auto;
+    text-align: center;
+    border: 1px solid lightblue;
+}
+
+th  {
+    height: 80px;
+    margin: 0 auto;
+    font-size: 15px;
+    text-align: center;
+    border: 2px solid lightblue;
+}
+
+#long {
+    font-size: 8px;
+    text-align: center;
+}
+
+#fuck {
+    font-size: 8px;
+    text-align: center;
+}   
+
+#blue {
+    background-color: aquamarine;
+}
+
+#cat {
+    background-image: url("https://previews.123rf.com/images/ksuperksu/ksuperksu1608/ksuperksu160800004/62739757-pixel-art-duckling-isolated-on-white-background-small-baby-duck-standing-on-the-ground.jpg");
+    margin: 0 auto;
+    height: fit-content;
+    width: fit-content;
+}
